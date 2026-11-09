@@ -1,8 +1,8 @@
-### Michaela Richter
+### <ins>Michaela Richter</ins>
 
-MLIS student | Interested in the intersection between archives, language, and power
-☆ Digital archives and humanities
-☆ Indigenous language revitalization and data sovereignty 
+__MLIS student__ ☆ Interested in the intersection between archives, language, and power  
+&emsp;&emsp;☆ Digital archives and humanities  
+&emsp;&emsp;☆ Indigenous language revitalization and data sovereignty 
 
 <!--
 **mich4elajoy/mich4elajoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
