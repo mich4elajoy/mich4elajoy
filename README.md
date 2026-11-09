@@ -1,4 +1,4 @@
-## Hi there 👋
+### Michaela Richter
 
 <!--
 **mich4elajoy/mich4elajoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
